@@ -1,2 +1,2 @@
 # Go-language-study
-Go language study 미니 프로젝트 정리 
+Go language 스터디 내용 정리 
